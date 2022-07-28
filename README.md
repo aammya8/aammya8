@@ -1,6 +1,24 @@
 ### Hi there 👋
 
 My name is Aammya and I am a computer science student at UCSD. Here's some info about me!
+
+🐳 Work Experience:
+[description coming soon]
+
+🐥 Current Project:
+[description coming soon]
+
+👽 Interests:
+- Web Development
+- Cloud Computing
+- Algorithmic Trading
+- Artifical Intelligence
+
+💬 Contact me on my website [coming soon] or on (LinkedIn)[https://www.linkedin.com/in/aammya-sapra-988544203]!
+
+
+
+
 <!--
 **doraemon127/doraemon127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
