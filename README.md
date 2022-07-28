@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aammya and I am a computer science student at UCSD. Here's some info about me! <br/><br/>
+My name is Aammya and I am a computer science student at UCSD. Here's some info about me! 
 
 🐳 Work Experience: <br/>
 - [description coming soon] <br/>
