@@ -2,20 +2,19 @@
 
 My name is Aammya and I am a computer science student at UCSD. Here's some info about me! 
 
-🐳 Work Experience: <br/>
+🐳 Work Experience:
 - [description coming soon] <br/>
 
-🐥 Current Project: <br/>
+🐥 Current Project:
 - [description coming soon] <br/>
 
-👽 Interests: <br/>
+👽 Interests:
 - Web Development
 - Cloud Computing
 - Algorithmic Trading
 - Artifical Intelligence <br/>
 
-💬 Contact me on my website [coming soon] or on [LinkedIn](https://www.linkedin.com/in/aammya-sapra-988544203)!
-
+<!-- 💬 Contact me on my website [coming soon] or on [LinkedIn](https://www.linkedin.com/in/aammya-sapra-988544203)! -->
 
 
 
