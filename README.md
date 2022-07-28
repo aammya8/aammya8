@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Aammya and I am a computer science student at UCSD.
 <!--
 **doraemon127/doraemon127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
