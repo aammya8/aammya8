@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Aammya and I am a computer science student at UCSD. Here's some info about me!
+My name is Aammya and I am a computer science student at UCSD. Here's some info about me! <br/><br/>
 
-🐳 Work Experience:
+🐳 Work Experience: <br/><br/>
 [description coming soon]
 
-🐥 Current Project:
+🐥 Current Project: <br/><br/>
 [description coming soon]
 
-👽 Interests:
+👽 Interests: <br/><br/>
 - Web Development
 - Cloud Computing
 - Algorithmic Trading
