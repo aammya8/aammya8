@@ -5,10 +5,10 @@ My name is Aammya and I am a computer science student at UCSD. Here's some info 
 🐳 Work Experience:
 - [description coming soon] <br/>
 
-🐥 Current Project:
+🐳 Current Project:
 - [description coming soon] <br/>
 
-👽 Interests:
+🐳 Interests:
 - Web Development
 - Cloud Computing
 - Algorithmic Trading
