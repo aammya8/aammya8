@@ -16,7 +16,7 @@ My name is Aammya and I am a computer science student at UCSD. Here's some info 
 - Doraemon :) <br/>
 
 
-💬 Find me on [LinkedIn](https://www.linkedin.com/in/aammya-sapra-988544203)!
+💬 Find me on <a href="https://www.linkedin.com/in/aammya-sapra-988544203" target="_blank">LinkedIn</a>
 <!-- 💬 Find me on my website [coming soon] or on [LinkedIn](https://www.linkedin.com/in/aammya-sapra-988544203)! -->
 
 
