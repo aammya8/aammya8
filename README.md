@@ -12,8 +12,7 @@ My name is Aammya and I am a computer science student at UCSD. Here's some info 
 - Web Development
 - Cloud Computing
 - Algorithmic Trading
-- Artifical Intelligence 
-- Doraemon :) <br/>
+- Artifical Intelligence <br/>
 
 
 💬 Find me on <a href="https://www.linkedin.com/in/aammya-sapra-988544203" target="_blank">LinkedIn</a>
