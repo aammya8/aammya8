@@ -12,7 +12,7 @@ My name is Aammya and I am a computer science student at UCSD. Here's some info 
 - Cloud Computing
 - Algorithmic Trading
 - Artifical Intelligence 
-- Web (Back-End, Full-Stack) Development <br/>
+- Web Development (Back-End, Full-Stack)<br/>
 
 
 💬 Find me on <a href="https://www.linkedin.com/in/aammya-sapra-988544203" target="_blank">LinkedIn</a>
