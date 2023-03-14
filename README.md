@@ -5,8 +5,9 @@ My name is Aammya and I am a computer science student at UCSD. Here's some info 
 🐳 Work Experience:
 - [description coming soon] <br/>
 
-💿 Current Project:
-- [description coming soon] <br/>
+💿 Current Projects:
+- SDCTA-Data-Visualization-Website <a href="https://github.com/TritonSE/SDCTA-Data-Visualization-Website" target="_blank">LinkedIn</a>
+- Hyperdimensional Computing Library <a href="https://github.com/doraemon127/hdc-lib_ersp_22-23" target="_blank">LinkedIn</a> <br/>
 
 🌱 Interests:
 - Cloud Computing
