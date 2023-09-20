@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 My name is Aammya and I am a computer science student at UCSD. 
+
+
+
+<!-- link official trend website -->
+
+
 <!-- 
 My name is Aammya and I am a computer science student at UCSD. Here's some info about me! 
 
